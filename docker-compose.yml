@@ -5,8 +5,3 @@ services:
     container_name: bia
     ports:
       - 80:8080
-    environment:
-      DB_USER: postgres1
-      DB_PWD: +afSj?Tx)-6p8~CUJoV3rtlA~x81
-      DB_HOST: database-1.c3iy8ecaugju.us-east-1.rds.amazonaws.com
-      DB_PORT: 5432
